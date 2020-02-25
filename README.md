@@ -1,4 +1,4 @@
-## Erpnext Documentation
+## ERPNext Documentation
 
 ERPNext Documentation
 
